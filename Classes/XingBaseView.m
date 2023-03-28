@@ -1,6 +1,6 @@
-#import "CMBaseView.h"
+#import "XingBaseView.h"
 
-@implementation CMBaseView
+@implementation XingBaseView
 
 #pragma mark - 初始化
 

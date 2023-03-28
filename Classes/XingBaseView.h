@@ -2,7 +2,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface CMBaseView : UIView
+@interface XingBaseView : UIView
 /**
   页面初始化方法
  */
